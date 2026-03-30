@@ -34,7 +34,7 @@ const auth = getAuth(firebaseApp);
 const db = getFirestore(firebaseApp);
 const googleProvider = new GoogleAuthProvider();
 
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const YT_API_KEY = "AIzaSyDU8kLLkhMZONkwDOBbj3r9_mWIfLE4eXM";
 const GROQ_CHAT_URL = "https://api.groq.com/openai/v1/chat/completions";
 /** Default + vision paths (Llama 4 Scout on Groq). */
